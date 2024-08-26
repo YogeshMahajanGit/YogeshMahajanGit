@@ -10,25 +10,8 @@ Welcome to my GitHub profile! I'm Yogesh Mahajan, a passionate frontend develope
 - React.js
 - Responsive Web Design
 - Git, GitHub
--Node js (basic)
+-Node js
 
-### 🚀 Projects
-
-Here are a few projects I'm proud of:
-
-1. **Crypto Word**
-   - Crypto Analysis is a comprehensive platform for analyzing cryptocurrency data,
-     providing users with powerful tools for gaining insights into the cryptocurrency market.
-     The platform offers a range of features including real-time data updates, interactive charts,
-     and advanced analytics tools.   
-   - HTML,CSS,ReactJs,Chakra UI,CoinGeko API,Axios
-
-2. **BankApp**
-   - BankApp is a comprehensive banking application built using JavaScript, designed to
-     simulate and showcase the workings of a bank's core functionalities. The application
-     provides users with a virtual banking experience, offering a range of features and services
-     commonly found in real-world banking systems.
-   - HTML,CSS,Vanilla Javascript
 
 ### 🌱 Learning & Exploring
 
