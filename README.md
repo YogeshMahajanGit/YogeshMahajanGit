@@ -21,8 +21,7 @@ I'm always learning and exploring new technologies. Currently, I'm diving into N
 
 Feel free to reach out for collaborations, discussions, or just to say hi!
 
-- LinkedIn: https://www.linkedin.com/in/yogesah-mahajan-133924245/
-
+- LinkedIn: https://www.linkedin.com/in/dev-yogesh-mahajan/
 
 
 ### 📫 How to Reach Me
